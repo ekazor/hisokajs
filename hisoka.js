@@ -2787,7 +2787,7 @@ let capt = `⭔ Title: ${judul}
             break
 
             case'menu':{
-╭── Holaaa ${pushname}
+╭── Holaaa 
 │Aku Hourbot Bot Ini Adalah Beta Multi-Device WhatsApp. 
 │Jika Kamu Menemukan Semacam Bug Atau Kesalahan Mohon Dimaklumi Dulu Ya,            	
 │Lapor Owner Agar Segera Di Perbaiki🙏
